@@ -1,7 +1,7 @@
 # Dashboard Visualizations
 
 ## Overview:
-Linked below are some projects I have created visualizations for to identify patterns and provide insights.
+Below are some projects where I have created visualizations to identify patterns and provide insights.
 
 ## Links:
 - [Data Professional Survey PowerBI](https://github.com/mkweonn/data-professional-survey-powerbi)
